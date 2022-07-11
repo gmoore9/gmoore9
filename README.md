@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jeff_the_Cat](https://raw.githubusercontent.com/gmoore9/gmoore9/main/Jeff.jpeg)
+![Jeff_the_Cat](https://raw.githubusercontent.com/gmoore9/gmoore9/main/geoff.jpeg)
